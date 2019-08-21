@@ -1,0 +1,10 @@
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\bin\Debug\samplevisualstudio.exe.config
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\bin\Debug\samplevisualstudio.exe
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\bin\Debug\samplevisualstudio.pdb
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.csprojAssemblyReference.cache
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.Properties.Resources.resources
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.csproj.GenerateResource.cache
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.csproj.CoreCompileInputs.cache
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.exe
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.pdb
+C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.Form1.resources
