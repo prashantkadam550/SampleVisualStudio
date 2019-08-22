@@ -28,6 +28,8 @@ namespace samplevisualstudio
             // Welcome to My-World
 
             // Last test
+            String s3 = "S2S3";
+            Console.WriteLine(s3);
         }
     }
 }
