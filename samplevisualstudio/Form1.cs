@@ -30,6 +30,7 @@ namespace samplevisualstudio
             // Last test
             String s3 = "S2S3";
             Console.WriteLine(s3);
+            String s4 = "There was An Idea";
         }
     }
 }
