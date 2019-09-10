@@ -1,0 +1,11 @@
+[another-simple-branch 7b850c4] Office Connector Standard 2.0.4.79 x86 - bugfix-2319 - Repeating Error Message Boxes When State Indicates Should Abort. http://www.event1support.com/tracker/show_bug.cgi?id=2319
+
+commit -m "Office Connector Standard 2.0.4.79 x86 - bugfix-2319 - Repeating Error Message Boxes When State Indicates Should Abort. http://www.event1support.com/tracker/show_bug.cgi?id=2319"
+
+stash@{0}: On active-development: sample-test-stash
+
+
+
+
+
+                
