@@ -8,3 +8,13 @@ C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\
 C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.exe
 C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.pdb
 C:\Users\prashantk\source\repos\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.Form1.resources
+T:\Source Code\samplevisualstudio\samplevisualstudio\bin\Debug\samplevisualstudio.exe.config
+T:\Source Code\samplevisualstudio\samplevisualstudio\bin\Debug\samplevisualstudio.exe
+T:\Source Code\samplevisualstudio\samplevisualstudio\bin\Debug\samplevisualstudio.pdb
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.csprojAssemblyReference.cache
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.Form1.resources
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.Properties.Resources.resources
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.csproj.GenerateResource.cache
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.csproj.CoreCompileInputs.cache
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.exe
+T:\Source Code\samplevisualstudio\samplevisualstudio\obj\Debug\samplevisualstudio.pdb

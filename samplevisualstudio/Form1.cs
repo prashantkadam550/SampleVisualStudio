@@ -21,7 +21,14 @@ namespace samplevisualstudio
         {
             String s1 = "Prashant Kadam";
             MessageBox.Show("Hello World" + s1);
+
+            GetData();
             // This is the comment
+        }
+
+        private void GetData()
+        {
+            MessageBox.Show($"Hello World");
         }
     }
 }
